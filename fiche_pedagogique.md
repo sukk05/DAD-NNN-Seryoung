@@ -34,8 +34,9 @@
 
 #### Sujet du projet
 
-- **Titre du projet :
+- **Titre du projet :** Tasse à soupirs
 - **Description du projet (environ 150 mots) :**
+    *Tasse à soupirs* est une installation interactive composée d'une tasse vide posée sur une table, équipée d'un petit micro caché, et d'un écran placé devant elle. Le projet part des petits stress du quotidien et de la pause-café comme moment pour les relâcher. Lorsque le visiteur murmure des secrets ou de petites plaintes dans la tasse physique, le micro capte sa voix en temps réel. Sur l'écran — qui montre la surface du café vue de dessus — les mots reconnus tombent et s'accumulent sous forme de fragments pointus, déformés et complètement illisibles. Ainsi, personne ne peut lire ce qui a été dit. Une fois la surface remplie, un tourbillon se forme comme si on remuait avec une cuillère : les fragments fondent doucement dans le café jusqu'à retrouver une surface calme.
 
 #### Thématiques de recherche
 
@@ -91,7 +92,8 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 ### JJ/MM/AAAA
 
-- **Ce que j'ai fait :**
+23/11/2026
+- **Ce que j'ai fait :** 
 - **Problèmes rencontrés :**
 - **Prochaine étape :**
 - **Captures / liens :**
