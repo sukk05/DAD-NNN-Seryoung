@@ -92,8 +92,8 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 ### JJ/MM/AAAA
 
-23/11/2026
-- **Ce que j'ai fait :** 
-- **Problèmes rencontrés :**
-- **Prochaine étape :**
-- **Captures / liens :**
+##### 23/11/2026
+- **Ce que j'ai fait :** Création du dépôt GitHub public (`DAD-NNN-Seryoung`) et début de la `fiche_pedagogique.md` (rédaction de la description du projet). Courte présentation de l'idée, puis mise au clair du concept et recherche de références.
+- **Problèmes rencontrés :** Première utilisation de GitHub Desktop et du Markdown (`.md`), donc j'ai mis un peu de temps à comprendre comment ranger les fichiers et faire des commits. Difficile aussi de développer le projet tout en restant dans ce que je peux coder moi-même. Je me demande encore si je dois vraiment définir un type de stress précis.
+- **Prochaine étape :** Remplir les autres parties de la `fiche_pedagogique.md`. Partager à nouveau l'idée précisée avec le prof (reconnaissance vocale + effet de tourbillon dans le café) et lui demander des références.
+- **Captures / liens :** [Dépôt GitHub](https://github.com/sukk05/DAD-NNN-Seryoung) ![Croquis du projet](img/231126.jpg)
