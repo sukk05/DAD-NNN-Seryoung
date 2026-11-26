@@ -37,7 +37,7 @@
 
 - **Titre du projet :** Tasse à souci
 - **Description du projet (environ 150 mots) :**
-    *Tasse à soupirs* est une installation interactive composée d'une tasse vide posée sur une table, équipée d'un petit micro caché, et d'un écran placé devant elle. Le projet part des petits stress du quotidien et de la pause-café comme moment pour les relâcher. Lorsque le visiteur murmure des secrets ou de petites plaintes dans la tasse physique, le micro capte sa voix en temps réel. Sur l'écran — qui montre la surface du café vue de dessus — les mots reconnus tombent et s'accumulent sous forme de fragments pointus, déformés et complètement illisibles. Ainsi, personne ne peut lire ce qui a été dit. Une fois la surface remplie, un tourbillon se forme comme si on remuait avec une cuillère : les fragments fondent doucement dans le café jusqu'à retrouver une surface calme.
+    *Tasse à souci* est une installation interactive composée d'une tasse vide posée sur une table, équipée d'un petit micro caché, et d'un écran placé devant elle. Le projet part des petits stress du quotidien et de la pause-café comme moment pour les relâcher. Lorsque le visiteur murmure des secrets ou de petites plaintes dans la tasse physique, le micro capte sa voix en temps réel. Sur l'écran — qui montre la surface du café vue de dessus — les mots reconnus tombent et s'accumulent sous forme de fragments pointus, déformés et complètement illisibles. Ainsi, personne ne peut lire ce qui a été dit. Une fois la surface remplie, un tourbillon se forme comme si on remuait avec une cuillère : les fragments fondent doucement dans le café jusqu'à retrouver une surface calme.
 
 #### Thématiques de recherche
 
@@ -55,6 +55,8 @@ Jusqu'ici, j'ai surtout travaillé sur des sujets assez grands, comme des probl�
 #### Références artistiques
 
 Golan Levin & Zachary Lieberman, Messa di Voce (2003) : Pour la manière dont la voix captée par un micro se transforme en temps réel en formes abstraites et en fragments visuels qui tombent et s'accumulent à l'écran.
+
+Hiroshi Ishii / MIT Media Lab, musicBottles (1999) : Pour l'utilisation d'un contenant ordinaire (une bouteille, comme ici une tasse) comme interface physique intuitive à la place d'un clavier ou d'une souris.
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
@@ -82,9 +84,9 @@ Golan Levin & Zachary Lieberman, Messa di Voce (2003) : Pour la manière dont la
 ### Planning de travail
 
 - Établissez un planning des étapes clés de votre projet :
-  - **Étape 1 :** date et description
-  - **Étape 2 :** date et description
-  - **Étape 3 :** date et description
+  - **Étape 1 :** Définition du concept, mise en scène visuelle, storyboard et vidéo de simulation, exploration technique (reconnaissance vocale, choix du micro).
+  - **Étape 2 :** 
+  - **Étape 3 :** 
 
 
 
@@ -98,7 +100,14 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 ### JJ/MM/AAAA
 
-##### 25/11/2026
+###### 25/11/2026
+*   **Ce que j'ai fait :** Mise à jour de la `fiche_pedagogique.md` avec la rédaction de l'étape 1 du planning de travail et l'ajout de références artistiques.
+Réalisation de deux versions de vidéo test pour l'écran en vue de la maquette vidéo. 
+Réflexion pour simplifier la logique de code : au lieu de déformer les lettres en temps réel, préparer à l'avance 26 images PNG abstraites et illisibles (correspondant aux lettres de A à Z) pour que chaque lettre reconnue fasse tomber le symbole correspondant à l'écran.
+*   **Problèmes rencontrés :** Après avoir réalisé les deux vidéos tests, j'hésite sur le rendu visuel : est-ce que l'image à l'écran doit avoir un aspect plus graphique ou ressembler davantage à une vraie boisson (café/liquide) ? Il reste aussi à vérifier par le tournage quel dispositif fonctionne le mieux (écran posé sur la table ou projection).
+*   **Prochaine étape :** Tourner la maquette vidéo avec la vraie tasse et les vidéos tests pour comparer les différents rendus visuels.
+
+*   **Captures / liens :**![Croquis du projet](img/251126.jpg)
 
 ##### 24/11/2026
 - **Ce que j'ai fait :** Rédaction des parties « Présentation personnelle » et « Thématiques de recherche » dans la `fiche_pedagogique.md`, et recherche de références. Échange individuel avec le prof autour de l'installation et mise au clair du mot-clé du projet (passer de « surpris » à « souci »). Début du storyboard pour la maquette vidéo(fake it)
