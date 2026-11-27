@@ -50,13 +50,15 @@ Jusqu'ici, j'ai surtout travaillé sur des sujets assez grands, comme des probl�
 #### Outils et techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** La capture sonore en temps réel et la reconnaissance vocale (speech-to-text) reliée à l'affichage de texte dans Unity ; l'ajout d'effets physiques simples pour faire tomber et bouger les lettres ; et l'expérimentation de shaders en temps réel pour créer et ajuster l'effet de tourbillon du café.
 
 #### Références artistiques
 
 Golan Levin & Zachary Lieberman, Messa di Voce (2003) : Pour la manière dont la voix captée par un micro se transforme en temps réel en formes abstraites et en fragments visuels qui tombent et s'accumulent à l'écran.
 
 Hiroshi Ishii / MIT Media Lab, musicBottles (1999) : Pour l'utilisation d'un contenant ordinaire (une bouteille, comme ici une tasse) comme interface physique intuitive à la place d'un clavier ou d'une souris.
+
+Henri Michaux, Alphabet : Pour l'invention de signes graphiques illisibles qui ressemblent à une écriture secrète, permettant de garder une trace visuelle des paroles tout en cachant leur sens.
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
