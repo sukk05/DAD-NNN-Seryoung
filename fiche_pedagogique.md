@@ -100,6 +100,15 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 
 ### JJ/MM/AAAA
 
+###### 27/11/2026
+*   **Ce que j'ai fait :** Réalisation d'une nouvelle vidéo test avec un rendu plus proche d'un vrai café, suivie d'un échange individuel avec le prof pour comparer les essais. Le prof a trouvé que la version graphique était plus intéressante et faisait mieux passer le sens du projet, en mentionnant le style du *skeuomorphisme* (tout en gardant cette évocation du café pour l'affiner ensuite).
+Nous avons aussi défini la direction technique : utiliser **Unity** et envisager un effet de **shader** généré en temps réel plutôt qu'une vidéo préenregistrée en arrière-plan, afin de pouvoir ajuster les couleurs et les formes. Enfin, mise au clair et ajout des références et pistes discutées.
+*   **Problèmes rencontrés :** Une vidéo préenregistrée est peu flexible, mais créer un shader en temps réel demande des notions de mathématiques un peu complexes à coder soi-même. Il faut aussi éviter de vouloir réaliser tout de suite l'effet final trop complexe (avec les lettres qui se mélangent) et avancer par étapes.
+*   **Prochaine étape :** Commencer le développement sur Unity par la base la plus simple : d'abord relier l'entrée vocale à l'affichage d'un texte à l'écran, puis ajouter de la physique aux lettres pour les faire bouger, et développer le projet progressivement.
+*   **Captures / liens :**![vidéo test1](img/test1.png)
+                          ![vidéo test2](img/test2.png)
+                          ![vidéo test3](img/test3.png)
+
 ###### 25/11/2026
 *   **Ce que j'ai fait :** Mise à jour de la `fiche_pedagogique.md` avec la rédaction de l'étape 1 du planning de travail et l'ajout de références artistiques.
 Réalisation de deux versions de vidéo test pour l'écran en vue de la maquette vidéo. 
